@@ -166,7 +166,15 @@
 			<div class="row">
 				<div class="span12">
 					<div class="cform" id="contact-form">
-						<form action="" method="post" role="form" class="contactForm">
+                    @if (count($errors)>0)
+                        <div class="alert-danger" role="role">
+                            <ul>
+                                @foreach ($errors > all as $error)
+                                    <li>{{$error}}</li>
+                                @endforeach
+
+                    @endif
+						<form action="" method="get" class="contactForm">
 							<div class="row">
 								<div class="span6">
 									<div class="field your-name form-group">
