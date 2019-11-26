@@ -44,9 +44,6 @@
 	<!-- Header area -->
 	<div id="header-wrapper" class="header-slider">
 		<header class="clearfix">
-			<div class="logo">
-				<img src="assets/img/logo-image.png" alt="" />
-			</div>
 		</header>
 	</div>
 	<!-- spacer section -->

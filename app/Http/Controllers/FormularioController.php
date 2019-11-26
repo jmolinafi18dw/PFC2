@@ -3,6 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\formulario;
+use App\Http\Requests\formulariorequest;
 use Illuminate\Http\Request;
 
 class FormularioController extends Controller
@@ -33,7 +34,7 @@ class FormularioController extends Controller
      * @param  \Illuminate\Http\Request  $request
      * @return \Illuminate\Http\Response
      */
-    public function store(Request $request)
+    public function store(formulariorequest $request)
     {
         //
     }
