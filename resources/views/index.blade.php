@@ -74,15 +74,15 @@
 						<h2>Somos tu <strong>solución</strong></h2>
 						<p>
 							Somos una ERP que te permite reservar en distintas sociedades y lo unico que necesitas es registrarte
-							como socio y ademas tener muchas ganas de pasar un buen rato con tus amigos o familiares, 
+							como socio y ademas tener muchas ganas de pasar un buen rato con tus amigos o familiares,
 							por medio de nosotros reservaras el dia y hora que desees desde cualquier lugar.
-							Si eres el dueño de una sociedad gastronomica esta app te permite darle de alta y ponerla a disposcion de reservas.  
+							Si eres el dueño de una sociedad gastronomica esta app te permite darle de alta y ponerla a disposcion de reservas.
 						</p>
 					</div>
 				</div>
 				<div class="span6">
 					<div class="aligncenter">
-						<img src="assets/img/icons/creativity.png" alt="" />
+						<img id=erp src="assets/img/icons/creativity.png" alt="" />
 					</div>
 				</div>
 			</div>
@@ -101,7 +101,7 @@
 						<div class="post-image">
 							<img class="max-img" src="assets/img/blog/img1.jpg" alt="" />
 						</div>
-				
+
 						<div class="entry-content">
 							<h5><strong><a href="#">Gizartea</a></strong></h5>
 							<p>
@@ -114,11 +114,11 @@
 					<div class="post-image">
 							<img class="max-img" src="assets/img/blog/img2.jpg" alt="" />
 						</div>
-				
+
 						<div class="entry-content">
 							<h5><strong><a href="#">Basollua</a></strong></h5>
 							<p>
-							Situada en pleno centro de Donostia, los socios y socias de Basollua disfrutamos del placer de estar entre fogones, de una buena mesa y de fantástica compañía							</p>
+							Situada en pleno centro de Donostia, los socios y socias de Basollua disfrutamos del placer de estar entre fogones, de una buena mesa y de fantástica compañía.</p>
 						</div>
 					</div>
 				</div>
@@ -127,11 +127,11 @@
 					<div class="post-image">
 							<img class="max-img" src="assets/img/blog/img3.jpg" alt="" />
 						</div>
-				
+
 						<div class="entry-content">
 							<h5><strong><a href="#">Abandotarra K.E.</a></strong></h5>
 							<p>
-							Esta sociedad raliza distintas actividades como la tamborrada en el dia de San Sebastián, salidas montañeras y participación en distintos concursos gastronómicos							</p>
+							Esta sociedad raliza distintas actividades como la tamborrada en el dia de San Sebastián, salidas montañeras y participación en distintos concursos gastronómicos.</p>
 						</div>
 					</div>
 				</div>
@@ -140,11 +140,11 @@
 					<div class="post-image">
 							<img class="max-img" src="assets/img/blog/img4.jpg" alt="" />
 						</div>
-				
+
 						<div class="entry-content">
 							<h5><strong><a href="#">Aldabe</a></strong></h5>
 							<p>
-							Creada tras la Guerra Civil por varios componentes de otras sociedades desaparecidas, su principal objetivo es el deporte, campo en el que han destacado muchas ocasiones.							</p>
+							Creada tras la Guerra Civil por varios componentes de otras sociedades desaparecidas, su principal objetivo es el deporte, campo en el que han destacado muchas ocasiones.</p>
 						</div>
 					</div>
 				</div>
